@@ -15,4 +15,4 @@
 - Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.
-Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO Y MEJOR VE [A VER EL CURSO](http://https://platzi.com/cl
+Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO Y MEJOR VE [A VER EL CURSO](http://https://platzi.com/clases/git-github/ "A VER EL CURSO")
